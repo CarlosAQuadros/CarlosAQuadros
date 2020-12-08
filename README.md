@@ -7,7 +7,7 @@ Tenho 28 anos, estudo Analise e Desenvolvimento de Sistemas pela UNIP, Desenvolv
 - Front-End com HTML, CSS, JS, Bootstrap
 - Back-End com NodeJS, Express
 
-## próximos cursos:
+## Próximos cursos:
 - Front-End com ReactJs
 - Mobile com React Native
 
@@ -19,7 +19,7 @@ Tenho 28 anos, estudo Analise e Desenvolvimento de Sistemas pela UNIP, Desenvolv
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-##  Contact Me
+##  Contato
 - <a href="https://www.linkedin.com/in/carlos-quadros-de-ataides-17051618a/">Linkedin</a>>
 - <a href="mailto:carlosalbertoquadros@gmail.com">E-mail</a>
 - <a href="https://instagram.com/carlossquadros">Instagram Pessoal</a>
