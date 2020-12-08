@@ -1,7 +1,7 @@
  # <h1 align="center"> <a href="https://www.linkedin.com/in/carlos-quadros-de-ataides-17051618a/">Carlos Quadros</a></h1>
  
 ## Sobre mim
-Tenho 28 anos, estudo Analise e Desenvolvimento de Sistemas pela UNIP, Desenvolvimento WEB pela RocketSeat e Alura
+Tenho 28 anos, estudo Análise e Desenvolvimento de Sistemas pela UNIP, Desenvolvimento WEB pela RocketSeat e Alura
 
 ## Conhecimentos:
 - Front-End com HTML, CSS, JS, Bootstrap
