@@ -1,15 +1,16 @@
  # <h1 align="center"> <a href="https://www.linkedin.com/in/carlos-quadros-de-ataides-17051618a/">Carlos Quadros</a></h1>
  
 ## Sobre mim
-Tenho 28 anos, estudo Análise e Desenvolvimento de Sistemas pela FIAP, Desenvolvimento WEB pela RocketSeat e Alura
+Tenho 29 anos, estudo Análise e Desenvolvimento de Sistemas pela FIAP, Desenvolvimento Mobile com React Native pela RocketSeat.
 
 ## Conhecimentos:
+- Mobile com React Native
 - Front-End com HTML, CSS, JS, Bootstrap
 - Back-End com NodeJS, Express
 
 ## Próximos cursos:
 - Front-End com ReactJs
-- Mobile com React Native
+
 
 
 
