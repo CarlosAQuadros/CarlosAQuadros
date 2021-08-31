@@ -21,7 +21,7 @@ Tenho 29 anos, estudo Análise e Desenvolvimento de Sistemas pela FIAP, Desenvol
 
 
 ##  Contato
-- <a target=(_blank) href="https://www.linkedin.com/in/carlos-quadros-17051618a/">Linkedin</a>
+- <a target=_blank href="https://www.linkedin.com/in/carlos-quadros-17051618a/">Linkedin</a>
 - <a href="mailto:carlosalbertoquadros@gmail.com">E-mail</a>
 - <a href="https://instagram.com/carlossquadros">Instagram Pessoal</a>
 </div>
